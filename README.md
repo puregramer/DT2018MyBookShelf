@@ -3,6 +3,7 @@
 ## Features
 - VanillaJS
 - fetch, promise polyfill 
+- gulp
 
 ## demo
  - [데모버전 보기](https://puregramer.github.io/DT2018MyBookShelf/release)
